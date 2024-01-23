@@ -7,3 +7,17 @@ https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysi
 # BBHot100 chart for songs on peut l'enrichir avec digital sales et vinyl (ou artist 100 chart)
 # on pourra choisir une chanson qui n'est pas encore sorti et prédire son placement, du coup c'est cool pcq dans qlq semaines on peut vérifier
 https://www.kaggle.com/datasets/jackjaehwankim/billboard-chart-hot-100-oct-2nd
+
+
+
+Idée retenue :
+
+Faire un guide récapitulatif des solutions pour les problèmes les plus récurrents dans le traitement des bdd 
+
+- Données manquantes 
+- Données non structurées (identification des données aberrantes, erreurs typo....)
+- Prédiction (identification des variables les plus pertinentes pour la variable à prédire, distinction quali/quanti puis données chronologiques après si pas trop compliqué, 
+comparaison des méthodes et outils)
+
+Avec (guide) implémentation pratique en R de chaque méthode, application sur une bdd pour comparer la performance des méthodes 
+
